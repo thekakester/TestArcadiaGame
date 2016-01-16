@@ -49,7 +49,7 @@ public class MyGame extends Game{
 			canJump = false;
 		}
 		
-		g.setColor(Color.black);
+		g.setColor(Color.WHITE);
 		g.fillOval(0, (int)y, 100, 100);
 		
 	}
